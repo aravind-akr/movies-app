@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import Header from '../../common/header/Header';
+import Header from '../../common/Header/Header';
 import './Confirmation.css';
-import BookShow from '../../screens/bookshow/BookShow';
-import Home from '../../screens/home/Home';
+import BookShow from '../bookshow/BookShow';
+import Home from '../home/Home';
 import coupons from '../../common/coupons';
 import Typography from '@material-ui/core/Typography';
 import Input from '@material-ui/core/Input';
