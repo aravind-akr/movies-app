@@ -14,6 +14,10 @@ import PropTypes from 'prop-types';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import BookShow from '../../screens/bookshow/BookShow';
 import Home from '../../screens/home/Home';
+import Typography from '@material-ui/core/Typography';
+import './BookShow.css';
+import Home from '../home/Home';
+
 const customStyles = {
     content: {
         top: '50%',
